@@ -1,2 +1,2 @@
-Git hehedaa a distributed version control system.
+Git hehe a distributed version control system.
 Git is free software distributed under the GPL.
